@@ -1,4 +1,4 @@
-[test1](test_folder/test1)
+[test1](../test1)
 [UBO](https://www.univ-brest.fr/fr)
 something something
 
